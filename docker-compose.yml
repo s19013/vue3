@@ -2,7 +2,6 @@ services:
   front:
     # Dockerfileがある場所を指定
     build: ./front
-    # image: vue3:3.10.1
     container_name: front
     ports:
       - 5173:5173
