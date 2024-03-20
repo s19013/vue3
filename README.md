@@ -19,6 +19,9 @@ docker compose up -d
 * prettier
 * vue devTools
 
+# コンテナ内
+vueのプロジェクト名は`front`に設定してある｡
+
 # vite.config.jsの設定
 以下の設定を追加
 ```
